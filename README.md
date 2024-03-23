@@ -2,6 +2,10 @@
 
 https://www.windmill.dev
 
+## Presentation
+
+https://slides.com/f3l1x/2024-03-23-windmill-macgyver-toolkit
+
 ## Prerequisites
 
 - Docker
@@ -9,10 +13,6 @@ https://www.windmill.dev
 ## Usage
 
 1. Run `docker compose up`.
-1. Open `http://localhost:8080`.
-2. Login via `admin@windmill.dev` / `changeme`.
-3. Play around!
-
-## Demo
-
-![](.docs/windmill1.png)
+2. Open `http://localhost:8080`.
+3. Login via `admin@windmill.dev` / `changeme`.
+4. Play around!
